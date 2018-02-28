@@ -1,0 +1,15 @@
+
+*.pyc
+**/*.pyc
+*.db
+*/migrations/[0-9]*
+*/__pycache__
+.idea
+skillprofile/local_settings.py
+*.pdf
+static/media/*
+htmlcov
+sp/
+log/*
+log
+*.sqlite3
